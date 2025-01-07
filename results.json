@@ -1,0 +1,127 @@
+[
+  {
+    "title": "WordPress abandoning React due to Facebook patent clause",
+    "link": "https://reddit.com/r/programming/comments/706stt/wordpress_abandoning_react_due_to_facebook_patent/",
+    "author": "brokentyro"
+  },
+  {
+    "title": "Facebook Relicensing React, Flow, Immuable Js and Jest",
+    "link": "https://reddit.com/r/programming/comments/71uajh/facebook_relicensing_react_flow_immuable_js_and/",
+    "author": "FalseGodMoloch"
+  },
+  {
+    "title": "Airbnb moving away from React Native",
+    "link": "https://reddit.com/r/programming/comments/8saw35/airbnb_moving_away_from_react_native/",
+    "author": "tsolarin"
+  },
+  {
+    "title": "How I Debugged a Non Reproducible Bug with 20k Production crashes on a React Native App",
+    "link": "https://reddit.com/r/programming/comments/a3crqx/how_i_debugged_a_non_reproducible_bug_with_20k/",
+    "author": "almouro"
+  },
+  {
+    "title": "ReactOS releases 0.4.8 with experimental Vista/7/10 software compatibility",
+    "link": "https://reddit.com/r/programming/comments/8cefk8/reactos_releases_048_with_experimental_vista710/",
+    "author": "vicmarcal"
+  },
+  {
+    "title": "Flutter: A Framework to Surpass React Native",
+    "link": "https://reddit.com/r/programming/comments/cmspf6/flutter_a_framework_to_surpass_react_native/",
+    "author": "AndrewMD5"
+  },
+  {
+    "title": "TIL that the the NFL has an active GitHub repo with lots of react libraries",
+    "link": "https://reddit.com/r/programming/comments/as8eac/til_that_the_the_nfl_has_an_active_github_repo/",
+    "author": "vinelandfrenzy"
+  },
+  {
+    "title": "React 18 released!",
+    "link": "https://reddit.com/r/programming/comments/tr727k/react_18_released/",
+    "author": "Nysor"
+  },
+  {
+    "title": "If Not React, Then What?",
+    "link": "https://reddit.com/r/programming/comments/1hicam6/if_not_react_then_what/",
+    "author": "x5p23"
+  },
+  {
+    "title": "React on the server is not PHP",
+    "link": "https://reddit.com/r/programming/comments/1fxkkgj/react_on_the_server_is_not_php/",
+    "author": "Grannen"
+  },
+  {
+    "title": "ReactOS Repository migrated to GitHub (migrating a source code history of more than 20 years)",
+    "link": "https://reddit.com/r/programming/comments/74lwoo/reactos_repository_migrated_to_github_migrating_a/",
+    "author": "michalg82"
+  },
+  {
+    "title": "Things you forgot (or never knew) because of React",
+    "link": "https://reddit.com/r/programming/comments/18144k3/things_you_forgot_or_never_knew_because_of_react/",
+    "author": "fagnerbrack"
+  },
+  {
+    "title": "Web based Windows XP desktop recreation (powered by React)",
+    "link": "https://reddit.com/r/programming/comments/jlu05g/web_based_windows_xp_desktop_recreation_powered/",
+    "author": "eis3nheim"
+  },
+  {
+    "title": "How React 19 (Almost) Made the Internet Slower",
+    "link": "https://reddit.com/r/programming/comments/1dhz3i8/how_react_19_almost_made_the_internet_slower/",
+    "author": "HenriqueInonhe"
+  },
+  {
+    "title": "Creating a Hello World program in ReactOS is now just as easy as on windows! [Tutorial]",
+    "link": "https://reddit.com/r/programming/comments/ba8nxe/creating_a_hello_world_program_in_reactos_is_now/",
+    "author": "Mashpoe"
+  },
+  {
+    "title": "Everything I wish I knew before moving 50,000 lines of code to React Server Components",
+    "link": "https://reddit.com/r/programming/comments/1669rn6/everything_i_wish_i_knew_before_moving_50000/",
+    "author": "GarethX"
+  },
+  {
+    "title": "React I love you, but you're bringing me down",
+    "link": "https://reddit.com/r/programming/comments/xjmfgu/react_i_love_you_but_youre_bringing_me_down/",
+    "author": "teknikly-correct"
+  },
+  {
+    "title": "All of Twitter's mobile web traffic (that's like, a lot) moved to a new web stack – Node.js, Express, React PWA",
+    "link": "https://reddit.com/r/programming/comments/5st3dy/all_of_twitters_mobile_web_traffic_thats_like_a/",
+    "author": "alexsnurnikov"
+  },
+  {
+    "title": "JSX without React",
+    "link": "https://reddit.com/r/programming/comments/187ebqr/jsx_without_react/",
+    "author": "fagnerbrack"
+  },
+  {
+    "title": "Migrating our Largest Mobile App to React Native",
+    "link": "https://reddit.com/r/programming/comments/103zpkn/migrating_our_largest_mobile_app_to_react_native/",
+    "author": "mariuz"
+  },
+  {
+    "title": "Moving From React to htmx",
+    "link": "https://reddit.com/r/programming/comments/y4wz7w/moving_from_react_to_htmx/",
+    "author": "yawaramin"
+  },
+  {
+    "title": "Why Cities: Skylines 2 performs poorly",
+    "link": "https://reddit.com/r/programming/comments/17ohgam/why_cities_skylines_2_performs_poorly/",
+    "author": "simspelaaja"
+  },
+  {
+    "title": "JavaScript survey: Devs love a bit of React, but Angular and Cordova declining. And you're not alone... a chunk of pros also feel JS is 'overly complex'",
+    "link": "https://reddit.com/r/programming/comments/ed6po6/javascript_survey_devs_love_a_bit_of_react_but/",
+    "author": "stronghup"
+  },
+  {
+    "title": "Creating A Text-Based Graphics Engine in C++ from Scratch in ReactOS!",
+    "link": "https://reddit.com/r/programming/comments/bd566o/creating_a_textbased_graphics_engine_in_c_from/",
+    "author": "Mashpoe"
+  },
+  {
+    "title": "React: Important concepts to learn to truly master the language ",
+    "link": "https://reddit.com/r/programming/comments/1fnov1w/react_important_concepts_to_learn_to_truly_master/",
+    "author": "Rough_Resolve_8798"
+  }
+]
