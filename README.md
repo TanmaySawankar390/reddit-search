@@ -35,7 +35,7 @@ REDDIT_USER_AGENT
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/reddit-search.git
+git clone https://github.com/TanmaySawankar390/reddit-search.git
 
 # Navigate to project
 cd reddit-search
