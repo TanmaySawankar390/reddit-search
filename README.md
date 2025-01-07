@@ -50,9 +50,9 @@ touch .env
 ## Environment Setup
 ```env
 # .env file configuration
-REDDIT_CLIENT_ID=your_client_id
-REDDIT_CLIENT_SECRET=your_client_secret
-REDDIT_USER_AGENT=your_app_name/1.0.0
+CLIENT_ID=your_client_id
+CLIENT_SECRET=your_client_secret
+USER_AGENT=your_app_name/1.0.0
 PORT=3000
 ```
 
